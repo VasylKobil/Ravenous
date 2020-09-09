@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a893308c6684b5f189dd66d869af8384",
+    "revision": "e556520e04b444347e2be9c58c17e17b",
     "url": "/Ravenous/index.html"
   },
   {
-    "revision": "ee5e3f9e2f495ca81266",
-    "url": "/Ravenous/static/css/main.95564dde.chunk.css"
+    "revision": "7f06bfd665979bce7908",
+    "url": "/Ravenous/static/css/main.409b4518.chunk.css"
   },
   {
     "revision": "44b17a0c356c7e732238",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ravenous/static/js/2.4f2af0f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee5e3f9e2f495ca81266",
-    "url": "/Ravenous/static/js/main.c5ec7e8f.chunk.js"
+    "revision": "7f06bfd665979bce7908",
+    "url": "/Ravenous/static/js/main.e8bd417c.chunk.js"
   },
   {
     "revision": "cd33480439a159f358bd",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ravenous/static/media/background_search_mobile.5d0905e6.jpg"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/Ravenous/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/Ravenous/static/media/logo.ee7cd8ed.svg"
   }
 ]);
