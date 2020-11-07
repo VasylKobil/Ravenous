@@ -70,6 +70,7 @@ input:focus {
 
 .App {
   font-family: 'Work Sans', sans-serif;
+  display: block;
 }
 
 h1 {
